@@ -8,3 +8,5 @@ Improved the problem of not being able to train based on the original animation,
 
 Generator settings:
 Visibility set 1 is configured with this plugin, 0 is the official original configuration
+
+If Visibility set 1, num poses need to be set to 10 times the number of original animation frames
